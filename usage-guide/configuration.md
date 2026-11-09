@@ -216,7 +216,7 @@ _**Example:**_
 
 _**Notes:**_
 
-* See also: `mod_typing`
+* See also: `user_typing`
 
 ### User Typing ( user\_typing )
 
